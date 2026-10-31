@@ -1,4 +1,5 @@
 website https://bopsop.github.io/No-Man-s-Sky-Galaxy-map-website/
+
 Version 2 of the website https://github.com/bopsop/No-Man-s-Sky-Galaxy-map-website-v2
 
 if you want to access the Galaxy map Without Any internet connection, download the HTML from the releases page 
