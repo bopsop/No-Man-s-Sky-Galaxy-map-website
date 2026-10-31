@@ -1,6 +1,6 @@
 website https://bopsop.github.io/No-Man-s-Sky-Galaxy-map-website/
 
-Version 2 of the website https://github.com/bopsop/No-Man-s-Sky-Galaxy-map-website-v2
+Version 2 of the website [https://github.com/bopsop/No-Man-s-Sky-Galaxy-map-website-v2](https://bopsop.github.io/No-Man-s-Sky-Galaxy-map-website-v2/)
 
 version 2 of the repository https://github.com/bopsop/No-Man-s-Sky-Galaxy-map-website-v2
 
